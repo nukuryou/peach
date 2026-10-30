@@ -55,6 +55,7 @@
 | --- | --- |
 | Windows x64 | [安装版](https://github.com/peach-mitao/peach/releases/download/v0.50.0/Peach-0.50.0-windows-x64-setup.exe) · [免安装版](https://github.com/peach-mitao/peach/releases/download/v0.50.0/Peach-0.50.0-windows-x64.zip) |
 | macOS | [Apple Silicon / ARM64](https://github.com/peach-mitao/peach/releases/download/v0.50.0/Peach-0.50.0-macos-arm64.dmg) · [Intel / x86_64](https://github.com/peach-mitao/peach/releases/download/v0.50.0/Peach-0.50.0-macos-x86_64.dmg) |
+| Android（实验性） | [从源码构建](docs/ANDROID.md) |
 | Docker / NAS | [部署说明](docs/DOCKER.md) |
 | 源码运行 | [安装步骤](docs/OPERATIONS.md#从源码运行windowsmacos)，需要 Git、uv 和 Python 3.14+ |
 

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Peach</string>
+    <string name="menu_set_server">设置服务器地址</string>
+    <string name="menu_reload">刷新</string>
+    <string name="server_dialog_title">Peach 服务地址</string>
+    <string name="server_dialog_hint">http://192.168.1.5:18888</string>
+    <string name="server_dialog_save">保存并打开</string>
+    <string name="server_dialog_cancel">取消</string>
+    <string name="invalid_server_url">请输入有效的 http/https 地址</string>
+</resources>
